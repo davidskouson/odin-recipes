@@ -6,11 +6,11 @@ h1 {
     font-family: serif;
 }
 
-ul {
+ol, ol li {
     background-color: #500101;
     color: #82f373;
 }
 
-ol {
+ul {
     font-size: 12px;
 }
