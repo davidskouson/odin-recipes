@@ -4,6 +4,8 @@
 
 h1 {
     font-family: serif;
+    text-align: center;
+    font-size: 50px;
 }
 
 ol, ol li {
@@ -12,5 +14,17 @@ ol, ol li {
 }
 
 ul {
-    font-size: 12px;
+    font-size: 20px;
+}
+
+ul li {
+    margin: 15px;
+}
+
+a {
+    background-color: rgb(250, 161, 250);
+    display: inline-block;
+    padding: 10px;
+    border: 2px solid purple;
+    margin: 10px;
 }
